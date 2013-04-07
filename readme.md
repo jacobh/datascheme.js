@@ -6,6 +6,8 @@ It supports primitive values, objects, arrays of primitives, and arrays of objec
 
 ## Example
 
+*[This can be seen in action here](http://beta.hotcopper.com/posts/stream)*
+
 ### Message
 ```json
 {
